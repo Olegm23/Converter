@@ -1,0 +1,51 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+div.container {
+  margin-top: 150px;
+  text-align: center;
+}
+
+.label {
+  margin-top: 50px;
+}
+
+input {
+  width: 100%;
+  height: 30px;
+}
+
+.celsius-field-wrapper,
+.fahrenheit-field-wrapper {
+  position: relative;
+  max-width: 350px;
+  margin: auto;
+}
+
+.celsius-field-wrapper span,
+.fahrenheit-field-wrapper span {
+  position: absolute;
+  right: 8px;
+  top: 50%;
+  transform: translate(0, -45%);
+}
+
+.convertToCelsius  {
+  text-align: center;
+}
+
+.convertToFahrenheit {
+  text-align: center;
+}
+
