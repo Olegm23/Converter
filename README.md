@@ -1,12 +1,12 @@
-The Temperature Converter project was built in React.
-I spent two hours on the development.
-I managed to finish almost all tasks which I needed to complete.
-I ran out of time before I managed to implement the conversions counter feature,
-but I understand how it should work and it should not be so difficult.
+Проект конвертер температуры сделан в React.
+Я потратил два часа на разработку.
+Мне удалось выполнить почти все задачи, которые мне нужно было выполнить.
+У меня закончилось время, прежде чем мне удалось реализовать функцию счетчика конверсий,
+но я понимаю, как это должно работать, и это не должно быть так сложно.
 
-I used CSS instead of Sass, because the project is very small and there was no need for more complex rules.
+Я использовал CSS вместо Sass, потому что проект очень маленький и не было необходимости в более сложных правилах.
 
-Steps for running the application
+Шаги для запуска приложения
 
 
 ## Getting started
